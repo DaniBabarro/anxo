@@ -1,4 +1,7 @@
 Ejercicio git
-Iniciamos pruebas
+Comenzamos las pruebas
 Primera prueba
 Segunda prueba
+Nuevos cambios en la rama "master"
+Estoy en la rama test
+
