@@ -1,0 +1,8 @@
+Ejercicio git
+Comenzamos las pruebas
+Primera prueba
+Segunda prueba
+Nuevos cambios en la rama "master"
+Estoy en la rama test
+
+https://github.com/anxolois/anxo/edit/master/texto.txt
