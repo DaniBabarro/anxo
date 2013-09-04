@@ -2,6 +2,6 @@ Ejercicio git
 Comenzamos las pruebas
 Primera prueba
 Segunda prueba
+<<<<<<< HEAD
 Nuevos cambios en la rama "master"
 Estoy en la rama test
-
